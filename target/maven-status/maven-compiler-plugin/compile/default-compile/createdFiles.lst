@@ -1,0 +1,11 @@
+equipmgnt\AbstractEvent$1.class
+equipmgnt\ApprovalController.class
+equipmgnt\config\kafka\KafkaProcessor.class
+equipmgnt\PolicyHandler.class
+equipmgnt\ApprovalRepository.class
+equipmgnt\ApprovalObtained.class
+equipmgnt\AbstractEvent.class
+equipmgnt\CancelRequested.class
+equipmgnt\OrderCanceled.class
+equipmgnt\Approval.class
+equipmgnt\ApprovalApplication.class
